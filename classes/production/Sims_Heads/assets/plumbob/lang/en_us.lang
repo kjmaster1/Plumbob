@@ -1,0 +1,12 @@
+config.plumbob.title=Plumbob
+config.plumbob.colours=Colours
+config.plumbob.defaultColour=Default Colour
+config.plumbob.changeColour=Change Colour
+config.plumbob.ticks=Render Ticks
+config.plumbob.yOffset=Y Offset
+config.plumbob.disMinSpin=Minimum Spin Distance
+config.plumbob.disMaxSpin=Maximum Spin Distance
+config.plumbob.disMinLev=Minimum Levitation Distance
+config.plumbob.disMaxLev=Maximum Levitation Distance
+config.plumbob.minLevHeight=Minimum Levitation Height
+config.plumbob.maxLevHeight=Maximum Levitation Height
